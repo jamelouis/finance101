@@ -1,0 +1,447 @@
+[
+    {
+        "name": "A股",
+        "children":[
+            {
+                "name": "行业",
+                "children":[
+                    {
+                        "name": "养老产业",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "全指医药",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "中证传媒",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "证券公司",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "全指金融",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "中证环保",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "信息技术",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "富国消费",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "中小盘",
+                "children":[
+                    {
+                        "name": "中证500",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"建信500",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"富国500",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"中证500C",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "价值",
+                "children":[
+                    {
+                        "name": "中证红利",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "大盘",
+                "children":[
+                    {
+                        "name": "沪深300",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "富国300",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "上证50",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "货币",
+        "children":[
+            {
+                "name": "货币",
+                "children":[
+                    {
+                        "name": "货币基金",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "债券",
+        "children":[
+            {
+                "name":"国内债券",
+                "children":[
+                    {
+                        "name": "兴全转债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"易方达安心回报债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"南方通利纯债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "7-10国开债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "易方达高级信用债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "广发纯债",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "海外新兴",
+        "children":[
+            {
+                "name": "香港",
+                "children":[
+                    {
+                        "name": "香港恒生",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "海外互联",
+                "children":[
+                    {
+                        "name" : "中国海外互联",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "恒生科技",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name":"易方达中概互联",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "商品",
+        "children":[
+            {
+                "name": "原油",
+                "children":[
+                    {
+                        "name": "华宝油气",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "黄金",
+                "children":[
+                    {
+                        "name":"黄金",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "海外成熟",
+        "children":[
+            {
+                "name": "欧洲",
+                "children":[
+                    {
+                        "name": "德国DAX",
+                        "children":[
+                            {
+                                "name": 0,
+                                "value": 1,
+                                "itemStyle": {
+                                    "color": "#d0545f"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

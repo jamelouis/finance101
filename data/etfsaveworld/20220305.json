@@ -1,0 +1,447 @@
+[
+      {
+            "name": "A\u80a1",
+            "children": [
+                  {
+                        "name": "\u884c\u4e1a",
+                        "children": [
+                              {
+                                    "name": "\u517b\u8001\u4ea7\u4e1a",
+                                    "children": [
+                                          {
+                                                "name": 19.97,
+                                                "value": 4.12,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5168\u6307\u533b\u836f",
+                                    "children": [
+                                          {
+                                                "name": 40.0,
+                                                "value": 4.55,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u4e2d\u8bc1\u4f20\u5a92",
+                                    "children": [
+                                          {
+                                                "name": -14.75,
+                                                "value": 3.13,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u8bc1\u5238\u516c\u53f8",
+                                    "children": [
+                                          {
+                                                "name": 38.71,
+                                                "value": 2.48,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5168\u6307\u91d1\u878d",
+                                    "children": [
+                                          {
+                                                "name": 7.31,
+                                                "value": 2.48,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u4e2d\u8bc1\u73af\u4fdd",
+                                    "children": [
+                                          {
+                                                "name": 58.69,
+                                                "value": 1.09,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u4fe1\u606f\u6280\u672f",
+                                    "children": [
+                                          {
+                                                "name": -0.55,
+                                                "value": 0.52,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5bcc\u56fd\u6d88\u8d39",
+                                    "children": [
+                                          {
+                                                "name": -2.06,
+                                                "value": 0.48,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "name": "\u4e2d\u5c0f\u76d8",
+                        "children": [
+                              {
+                                    "name": "\u4e2d\u8bc1500",
+                                    "children": [
+                                          {
+                                                "name": 33.46,
+                                                "value": 6.48,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5efa\u4fe1500",
+                                    "children": [
+                                          {
+                                                "name": 31.75,
+                                                "value": 8.53,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5bcc\u56fd500",
+                                    "children": [
+                                          {
+                                                "name": 68.81,
+                                                "value": 2.34,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u4e2d\u8bc1500C",
+                                    "children": [
+                                          {
+                                                "name": 47.95,
+                                                "value": 0.0,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "name": "\u4ef7\u503c",
+                        "children": [
+                              {
+                                    "name": "\u4e2d\u8bc1\u7ea2\u5229",
+                                    "children": [
+                                          {
+                                                "name": 44.9,
+                                                "value": 18.96,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "name": "\u5927\u76d8",
+                        "children": [
+                              {
+                                    "name": "\u6caa\u6df1300",
+                                    "children": [
+                                          {
+                                                "name": 52.98,
+                                                "value": 0.54,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5bcc\u56fd300",
+                                    "children": [
+                                          {
+                                                "name": 44.77,
+                                                "value": 5.0,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u4e0a\u8bc150",
+                                    "children": [
+                                          {
+                                                "name": 57.94,
+                                                "value": 3.08,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      },
+      {
+            "name": "\u8d27\u5e01",
+            "children": [
+                  {
+                        "name": "\u8d27\u5e01",
+                        "children": [
+                              {
+                                    "name": "\u8d27\u5e01\u57fa\u91d1",
+                                    "children": [
+                                          {
+                                                "name": 23.19,
+                                                "value": 17.51,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      },
+      {
+            "name": "\u503a\u5238",
+            "children": [
+                  {
+                        "name": "\u56fd\u5185\u503a\u5238",
+                        "children": [
+                              {
+                                    "name": "\u5174\u5168\u8f6c\u503a",
+                                    "children": [
+                                          {
+                                                "name": 59.77,
+                                                "value": 2.79,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u6613\u65b9\u8fbe\u5b89\u5fc3\u56de\u62a5\u503a",
+                                    "children": [
+                                          {
+                                                "name": 32.12,
+                                                "value": 2.69,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5357\u65b9\u901a\u5229\u7eaf\u503a",
+                                    "children": [
+                                          {
+                                                "name": 5.75,
+                                                "value": 1.51,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "7-10\u56fd\u5f00\u503a",
+                                    "children": [
+                                          {
+                                                "name": 10.97,
+                                                "value": 0.49,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u6613\u65b9\u8fbe\u9ad8\u7ea7\u4fe1\u7528\u503a",
+                                    "children": [
+                                          {
+                                                "name": 4.87,
+                                                "value": 0.39,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u5e7f\u53d1\u7eaf\u503a",
+                                    "children": [
+                                          {
+                                                "name": 12.5,
+                                                "value": 0.29,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      },
+      {
+            "name": "\u6d77\u5916\u65b0\u5174",
+            "children": [
+                  {
+                        "name": "\u9999\u6e2f",
+                        "children": [
+                              {
+                                    "name": "\u9999\u6e2f\u6052\u751f",
+                                    "children": [
+                                          {
+                                                "name": 14.26,
+                                                "value": 6.03,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "name": "\u6d77\u5916\u4e92\u8054",
+                        "children": [
+                              {
+                                    "name": "\u4e2d\u56fd\u6d77\u5916\u4e92\u8054",
+                                    "children": [
+                                          {
+                                                "name": -5.64,
+                                                "value": 1.56,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u6052\u751f\u79d1\u6280",
+                                    "children": [
+                                          {
+                                                "name": -17.28,
+                                                "value": 0.97,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              },
+                              {
+                                    "name": "\u6613\u65b9\u8fbe\u4e2d\u6982\u4e92\u8054",
+                                    "children": [
+                                          {
+                                                "name": -23.59,
+                                                "value": 0.43,
+                                                "itemStyle": {
+                                                      "color": "#49b65b"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      },
+      {
+            "name": "\u5546\u54c1",
+            "children": [
+                  {
+                        "name": "\u539f\u6cb9",
+                        "children": [
+                              {
+                                    "name": "\u534e\u5b9d\u6cb9\u6c14",
+                                    "children": [
+                                          {
+                                                "name": 19.88,
+                                                "value": 0.46,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  },
+                  {
+                        "name": "\u9ec4\u91d1",
+                        "children": [
+                              {
+                                    "name": "\u9ec4\u91d1",
+                                    "children": [
+                                          {
+                                                "name": 26.32,
+                                                "value": 0.28,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      },
+      {
+            "name": "\u6d77\u5916\u6210\u719f",
+            "children": [
+                  {
+                        "name": "\u6b27\u6d32",
+                        "children": [
+                              {
+                                    "name": "\u5fb7\u56fdDAX",
+                                    "children": [
+                                          {
+                                                "name": 26.18,
+                                                "value": 0.81,
+                                                "itemStyle": {
+                                                      "color": "#d0545f"
+                                                }
+                                          }
+                                    ]
+                              }
+                        ]
+                  }
+            ]
+      }
+]
