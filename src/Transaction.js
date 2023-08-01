@@ -8,7 +8,7 @@ function b64_to_utf8(str) {
 }
 
 function unique(arr) {
-    return arr.filter((item, index) => arr.indexOf(item) == index);
+    return arr.filter((item, index) => arr.indexOf(item) === index);
   }
 
 export default function TransactionComponent() {
@@ -83,7 +83,7 @@ export default function TransactionComponent() {
               value: 'DIVIDEN'
             }
           ],
-          onFilter: (value, record) => record.type.indexOf(value) == 0
+          onFilter: (value, record) => record.type.indexOf(value) === 0
         },
         {
           title: 'Name',
