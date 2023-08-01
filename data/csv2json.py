@@ -5,10 +5,12 @@ df = pd.read_csv('transactions.csv')
 print(df.head())
 data = []
 for index,item in df.iterrows():
+    if index < 10:
+        print(item)
     data.append({
         "date": item.date,
         "type": item.type,
-        "name": item.name,
+        "name": item.fundname,
         "code": item.Code,
         "unitPrice": item.unitPrice if not pd.isnull(item.unitPrice) else None,
         "quantity": item.quantity if not pd.isnull(item.quantity) else None,
@@ -21,4 +23,4 @@ transactions = {
     "data": data 
 }
 with open('transactions.json', 'w', encoding='utf-8') as fp:
-    json.dump(transactions, fp, indent=2)
+    json.dump(transactions, fp, indent=2, ensure_ascii=False)

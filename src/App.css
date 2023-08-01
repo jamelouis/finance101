@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  width: 760px;
+  margin: auto;
+}
+
+.portfolio {
+  background-color: antiquewhite;
+}
+
+.transaction {
+  margin-top: 12px;
+}
+
+.picker {
+  margin-top: 16px;
+  margin-bottom: 12px;
+}
+
+.center {
+  text-align: center;
+}

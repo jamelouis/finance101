@@ -1,4 +1,4 @@
-date,type,name,Code,unitPrice,quantity,fee,value
+date,type,fundname,Code,unitPrice,quantity,fee,value
 2018-05-31,BUY,富国沪深300指数增强A/B,123456,1.802,554.27,1.20,1000.00
 2018-06-28,BUY,富国沪深300指数增强A/B,123456,1.669,598.44,1.20,1000.00
 2018-08-06,BUY,富国沪深300指数增强A/B,123456,1.627,613.89,1.20,1000.00
