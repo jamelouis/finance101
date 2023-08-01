@@ -1,16 +1,16 @@
 [
     {
         "name": "A股",
-        "children":[
+        "children": [
             {
                 "name": "行业",
-                "children":[
+                "children": [
                     {
                         "name": "养老产业",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 15.6,
+                                "value": 4.09,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -19,10 +19,10 @@
                     },
                     {
                         "name": "全指医药",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 39.19,
+                                "value": 4.57,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -31,22 +31,22 @@
                     },
                     {
                         "name": "中证传媒",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -19.0,
+                                "value": 3.16,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
                     },
                     {
                         "name": "证券公司",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 33.88,
+                                "value": 2.48,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -55,10 +55,10 @@
                     },
                     {
                         "name": "全指金融",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 2.67,
+                                "value": 2.44,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -67,10 +67,10 @@
                     },
                     {
                         "name": "中证环保",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 58.31,
+                                "value": 0.0,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -79,24 +79,24 @@
                     },
                     {
                         "name": "信息技术",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -6.08,
+                                "value": 0.51,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
                     },
                     {
                         "name": "富国消费",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -3.2,
+                                "value": 1.09,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
@@ -105,13 +105,13 @@
             },
             {
                 "name": "中小盘",
-                "children":[
+                "children": [
                     {
                         "name": "中证500",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 24.64,
+                                "value": 6.32,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -119,11 +119,11 @@
                         ]
                     },
                     {
-                        "name":"建信500",
-                        "children":[
+                        "name": "建信500",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 24.64,
+                                "value": 8.34,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -131,11 +131,11 @@
                         ]
                     },
                     {
-                        "name":"富国500",
-                        "children":[
+                        "name": "富国500",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 59.67,
+                                "value": 2.28,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -143,11 +143,11 @@
                         ]
                     },
                     {
-                        "name":"中证500C",
-                        "children":[
+                        "name": "中证500C",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 47.95,
+                                "value": 0.0,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -158,13 +158,13 @@
             },
             {
                 "name": "价值",
-                "children":[
+                "children": [
                     {
                         "name": "中证红利",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 37.57,
+                                "value": 17.71,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -175,13 +175,13 @@
             },
             {
                 "name": "大盘",
-                "children":[
+                "children": [
                     {
                         "name": "沪深300",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 49.53,
+                                "value": 0.53,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -190,10 +190,10 @@
                     },
                     {
                         "name": "富国300",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 38.12,
+                                "value": 4.96,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -202,10 +202,10 @@
                     },
                     {
                         "name": "上证50",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 54.17,
+                                "value": 3.08,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -218,16 +218,16 @@
     },
     {
         "name": "货币",
-        "children":[
+        "children": [
             {
                 "name": "货币",
-                "children":[
+                "children": [
                     {
                         "name": "货币基金",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 23.3,
+                                "value": 18.48,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -240,16 +240,16 @@
     },
     {
         "name": "债券",
-        "children":[
+        "children": [
             {
-                "name":"国内债券",
-                "children":[
+                "name": "国内债券",
+                "children": [
                     {
                         "name": "兴全转债",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 56.11,
+                                "value": 2.74,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -257,11 +257,11 @@
                         ]
                     },
                     {
-                        "name":"易方达安心回报债",
-                        "children":[
+                        "name": "易方达安心回报债",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 29.34,
+                                "value": 2.14,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -269,11 +269,11 @@
                         ]
                     },
                     {
-                        "name":"南方通利纯债",
-                        "children":[
+                        "name": "南方通利纯债",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 5.27,
+                                "value": 0.99,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -282,10 +282,10 @@
                     },
                     {
                         "name": "7-10国开债",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 11.01,
+                                "value": 0.48,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -294,10 +294,10 @@
                     },
                     {
                         "name": "易方达高级信用债",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 4.68,
+                                "value": 0.38,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -306,10 +306,10 @@
                     },
                     {
                         "name": "广发纯债",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 12.43,
+                                "value": 0.27,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -322,16 +322,16 @@
     },
     {
         "name": "海外新兴",
-        "children":[
+        "children": [
             {
                 "name": "香港",
-                "children":[
+                "children": [
                     {
                         "name": "香港恒生",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 11.21,
+                                "value": 7.72,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -342,39 +342,39 @@
             },
             {
                 "name": "海外互联",
-                "children":[
+                "children": [
                     {
-                        "name" : "中国海外互联",
-                        "children":[
+                        "name": "中国海外互联",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -10.25,
+                                "value": 1.79,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
                     },
                     {
                         "name": "恒生科技",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -14.05,
+                                "value": 1.64,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
                     },
                     {
-                        "name":"易方达中概互联",
-                        "children":[
+                        "name": "易方达中概互联",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": -28.19,
+                                "value": 0.49,
                                 "itemStyle": {
-                                    "color": "#d0545f"
+                                    "color": "#49b65b"
                                 }
                             }
                         ]
@@ -385,16 +385,16 @@
     },
     {
         "name": "商品",
-        "children":[
+        "children": [
             {
                 "name": "原油",
-                "children":[
+                "children": [
                     {
                         "name": "华宝油气",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 23.87,
+                                "value": 0.22,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -405,13 +405,13 @@
             },
             {
                 "name": "黄金",
-                "children":[
+                "children": [
                     {
-                        "name":"黄金",
-                        "children":[
+                        "name": "黄金",
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 26.57,
+                                "value": 0.27,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
@@ -424,16 +424,16 @@
     },
     {
         "name": "海外成熟",
-        "children":[
+        "children": [
             {
                 "name": "欧洲",
-                "children":[
+                "children": [
                     {
                         "name": "德国DAX",
-                        "children":[
+                        "children": [
                             {
-                                "name": 0,
-                                "value": 1,
+                                "name": 27.77,
+                                "value": 0.84,
                                 "itemStyle": {
                                     "color": "#d0545f"
                                 }
