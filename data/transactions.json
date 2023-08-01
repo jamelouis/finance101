@@ -1,0 +1,2435 @@
+{
+  "name": "etf150",
+  "data": [
+    {
+      "date": "2018-05-31",
+      "type": "BUY",
+      "name": 0,
+      "code": 123456,
+      "unitPrice": 1.802,
+      "quantity": 554.27,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-28",
+      "type": "BUY",
+      "name": 1,
+      "code": 123456,
+      "unitPrice": 1.669,
+      "quantity": 598.44,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-08-06",
+      "type": "BUY",
+      "name": 2,
+      "code": 123456,
+      "unitPrice": 1.627,
+      "quantity": 613.89,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-03",
+      "type": "BUY",
+      "name": 3,
+      "code": 123456,
+      "unitPrice": 1.654,
+      "quantity": 603.87,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-28",
+      "type": "BUY",
+      "name": 4,
+      "code": 123456,
+      "unitPrice": 1.713,
+      "quantity": 583.07,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-30",
+      "type": "BUY",
+      "name": 5,
+      "code": 123456,
+      "unitPrice": 1.565,
+      "quantity": 638.21,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-16",
+      "type": "DIVIDEN",
+      "name": 6,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 393.08,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2019-01-31",
+      "type": "BUY",
+      "name": 7,
+      "code": 123456,
+      "unitPrice": 1.46,
+      "quantity": 684.11,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-09-18",
+      "type": "DIVIDEN",
+      "name": 8,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 560.39,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2022-06-15",
+      "type": "DIVIDEN",
+      "name": 9,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 732.49,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2016-06-24",
+      "type": "BUY",
+      "name": 10,
+      "code": 123456,
+      "unitPrice": 0.974,
+      "quantity": 1025.46,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-05-15",
+      "type": "BUY",
+      "name": 11,
+      "code": 123456,
+      "unitPrice": 1.227,
+      "quantity": 814.02,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-01-29",
+      "type": "SELL",
+      "name": 12,
+      "code": 123456,
+      "unitPrice": 1.7916,
+      "quantity": -920.84,
+      "fee": 1.98,
+      "value": -1647.81
+    },
+    {
+      "date": "2023-01-06",
+      "type": "BUY",
+      "name": 13,
+      "code": 123456,
+      "unitPrice": 1.4019,
+      "quantity": 712.46,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2015-08-03",
+      "type": "BUY",
+      "name": 14,
+      "code": 123456,
+      "unitPrice": 0.817,
+      "quantity": 1222.52,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2015-09-08",
+      "type": "BUY",
+      "name": 15,
+      "code": 123456,
+      "unitPrice": 0.721,
+      "quantity": 1385.3,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-01-11",
+      "type": "BUY",
+      "name": 16,
+      "code": 123456,
+      "unitPrice": 0.694,
+      "quantity": 1439.19,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-02-01",
+      "type": "BUY",
+      "name": 17,
+      "code": 123456,
+      "unitPrice": 0.637,
+      "quantity": 1567.97,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-03-01",
+      "type": "BUY",
+      "name": 18,
+      "code": 123456,
+      "unitPrice": 0.648,
+      "quantity": 1541.36,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-04-01",
+      "type": "BUY",
+      "name": 19,
+      "code": 123456,
+      "unitPrice": 0.706,
+      "quantity": 1414.73,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-05-03",
+      "type": "BUY",
+      "name": 20,
+      "code": 123456,
+      "unitPrice": 0.703,
+      "quantity": 1420.77,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-06-15",
+      "type": "BUY",
+      "name": 21,
+      "code": 123456,
+      "unitPrice": 0.689,
+      "quantity": 1449.64,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-12-15",
+      "type": "SELL",
+      "name": 22,
+      "code": 123456,
+      "unitPrice": 0.768,
+      "quantity": -1431.9,
+      "fee": 1.32,
+      "value": -1098.38
+    },
+    {
+      "date": "2018-07-05",
+      "type": "BUY",
+      "name": 23,
+      "code": 123456,
+      "unitPrice": 0.812,
+      "quantity": 1230.05,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-21",
+      "type": "BUY",
+      "name": 24,
+      "code": 123456,
+      "unitPrice": 0.887,
+      "quantity": 1126.04,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-08-12",
+      "type": "SELL",
+      "name": 25,
+      "code": 123456,
+      "unitPrice": 1.1278,
+      "quantity": -1125.5,
+      "fee": 1.52,
+      "value": -1267.82
+    },
+    {
+      "date": "2020-12-15",
+      "type": "SELL",
+      "name": 26,
+      "code": 123456,
+      "unitPrice": 1.199,
+      "quantity": -937.8,
+      "fee": 1.35,
+      "value": -1123.08
+    },
+    {
+      "date": "2021-01-28",
+      "type": "SELL",
+      "name": 27,
+      "code": 123456,
+      "unitPrice": 1.2845,
+      "quantity": -793.44,
+      "fee": 1.22,
+      "value": -1017.95
+    },
+    {
+      "date": "2021-02-23",
+      "type": "SELL",
+      "name": 28,
+      "code": 123456,
+      "unitPrice": 1.3369,
+      "quantity": -680.02,
+      "fee": 1.09,
+      "value": -908.03
+    },
+    {
+      "date": "2022-07-05",
+      "type": "SELL",
+      "name": 29,
+      "code": 123456,
+      "unitPrice": 1.0263,
+      "quantity": -589.3,
+      "fee": 0.72,
+      "value": -604.07
+    },
+    {
+      "date": "2017-04-28",
+      "type": "BUY",
+      "name": 30,
+      "code": 123456,
+      "unitPrice": 2.3018,
+      "quantity": 433.92,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-09-01",
+      "type": "BUY",
+      "name": 31,
+      "code": 123456,
+      "unitPrice": 2.4583,
+      "quantity": 406.3,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-09-29",
+      "type": "BUY",
+      "name": 32,
+      "code": 123456,
+      "unitPrice": 2.4887,
+      "quantity": 401.33,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-10-27",
+      "type": "BUY",
+      "name": 33,
+      "code": 123456,
+      "unitPrice": 2.5004,
+      "quantity": 399.46,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-11-30",
+      "type": "BUY",
+      "name": 34,
+      "code": 123456,
+      "unitPrice": 2.3535,
+      "quantity": 848.78,
+      "fee": 2.4,
+      "value": 2000.0
+    },
+    {
+      "date": "2017-12-29",
+      "type": "BUY",
+      "name": 35,
+      "code": 123456,
+      "unitPrice": 2.3536,
+      "quantity": 424.37,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-02-01",
+      "type": "BUY",
+      "name": 36,
+      "code": 123456,
+      "unitPrice": 2.3075,
+      "quantity": 432.85,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-02-06",
+      "type": "BUY",
+      "name": 37,
+      "code": 123456,
+      "unitPrice": 2.2067,
+      "quantity": 452.62,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-04-26",
+      "type": "BUY",
+      "name": 38,
+      "code": 123456,
+      "unitPrice": 2.2256,
+      "quantity": 448.78,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-14",
+      "type": "BUY",
+      "name": 39,
+      "code": 123456,
+      "unitPrice": 2.1643,
+      "quantity": 461.49,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-12-02",
+      "type": "BUY",
+      "name": 40,
+      "code": 123456,
+      "unitPrice": 1.9367,
+      "quantity": 515.72,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-09-27",
+      "type": "SELL",
+      "name": 41,
+      "code": 123456,
+      "unitPrice": 3.1654,
+      "quantity": -475.63,
+      "fee": 1.8,
+      "value": -1503.74
+    },
+    {
+      "date": "2023-02-01",
+      "type": "SELL",
+      "name": 42,
+      "code": 123456,
+      "unitPrice": 2.8673,
+      "quantity": -475.57,
+      "fee": 1.63,
+      "value": -1361.97
+    },
+    {
+      "date": "2016-03-01",
+      "type": "BUY",
+      "name": 43,
+      "code": 123456,
+      "unitPrice": 0.584,
+      "quantity": 1710.27,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-05-23",
+      "type": "BUY",
+      "name": 44,
+      "code": 123456,
+      "unitPrice": 0.613,
+      "quantity": 1629.36,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-11-02",
+      "type": "BUY",
+      "name": 45,
+      "code": 123456,
+      "unitPrice": 0.689,
+      "quantity": 1449.64,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-05-15",
+      "type": "BUY",
+      "name": 46,
+      "code": 123456,
+      "unitPrice": 0.644,
+      "quantity": 1550.93,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-05-31",
+      "type": "BUY",
+      "name": 47,
+      "code": 123456,
+      "unitPrice": 0.619,
+      "quantity": 1613.57,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-19",
+      "type": "BUY",
+      "name": 48,
+      "code": 123456,
+      "unitPrice": 0.558,
+      "quantity": 1789.96,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-08-20",
+      "type": "BUY",
+      "name": 49,
+      "code": 123456,
+      "unitPrice": 0.529,
+      "quantity": 1888.09,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-14",
+      "type": "BUY",
+      "name": 50,
+      "code": 123456,
+      "unitPrice": 0.513,
+      "quantity": 1946.98,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-30",
+      "type": "BUY",
+      "name": 51,
+      "code": 123456,
+      "unitPrice": 0.485,
+      "quantity": 2059.38,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-02-27",
+      "type": "SELL",
+      "name": 52,
+      "code": 123456,
+      "unitPrice": 0.7289,
+      "quantity": -1739.66,
+      "fee": 1.52,
+      "value": -1266.52
+    },
+    {
+      "date": "2018-08-01",
+      "type": "BUY",
+      "name": 53,
+      "code": 123456,
+      "unitPrice": 1.949,
+      "quantity": 512.47,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-03",
+      "type": "BUY",
+      "name": 54,
+      "code": 123456,
+      "unitPrice": 1.863,
+      "quantity": 536.12,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-30",
+      "type": "BUY",
+      "name": 55,
+      "code": 123456,
+      "unitPrice": 1.636,
+      "quantity": 610.51,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-16",
+      "type": "DIVIDEN",
+      "name": 56,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 186.42,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2019-09-20",
+      "type": "DIVIDEN",
+      "name": 57,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 209.24,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2018-08-06",
+      "type": "BUY",
+      "name": 58,
+      "code": 123456,
+      "unitPrice": 0.8407,
+      "quantity": 1188.06,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-11",
+      "type": "BUY",
+      "name": 59,
+      "code": 123456,
+      "unitPrice": 0.7602,
+      "quantity": 1313.86,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-03-07",
+      "type": "SELL",
+      "name": 60,
+      "code": 123456,
+      "unitPrice": 0.9437,
+      "quantity": -1252.46,
+      "fee": 1.42,
+      "value": -1180.53
+    },
+    {
+      "date": "2019-06-18",
+      "type": "BUY",
+      "name": 61,
+      "code": 123456,
+      "unitPrice": 0.8404,
+      "quantity": 1188.48,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-02-26",
+      "type": "SELL",
+      "name": 62,
+      "code": 123456,
+      "unitPrice": 0.9958,
+      "quantity": -1220.43,
+      "fee": 1.46,
+      "value": -1213.85
+    },
+    {
+      "date": "2022-01-10",
+      "type": "SELL",
+      "name": 63,
+      "code": 123456,
+      "unitPrice": 1.2782,
+      "quantity": -1218.97,
+      "fee": 1.87,
+      "value": -1556.22
+    },
+    {
+      "date": "2022-04-26",
+      "type": "BUY",
+      "name": 64,
+      "code": 123456,
+      "unitPrice": 0.9446,
+      "quantity": 1057.38,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-05-16",
+      "type": "SELL",
+      "name": 65,
+      "code": 123456,
+      "unitPrice": 1.0388,
+      "quantity": -1057.18,
+      "fee": 1.32,
+      "value": -1096.89
+    },
+    {
+      "date": "2016-12-15",
+      "type": "BUY",
+      "name": 66,
+      "code": 123456,
+      "unitPrice": 1.375,
+      "quantity": 726.4,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-12-30",
+      "type": "BUY",
+      "name": 67,
+      "code": 123456,
+      "unitPrice": 1.375,
+      "quantity": 726.4,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-01-16",
+      "type": "DIVIDEN",
+      "name": 68,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 314.69,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2017-01-25",
+      "type": "BUY",
+      "name": 69,
+      "code": 123456,
+      "unitPrice": 1.107,
+      "quantity": 902.26,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-05-23",
+      "type": "BUY",
+      "name": 70,
+      "code": 123456,
+      "unitPrice": 1.149,
+      "quantity": 869.28,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-12-14",
+      "type": "BUY",
+      "name": 71,
+      "code": 123456,
+      "unitPrice": 1.31,
+      "quantity": 762.44,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-12-29",
+      "type": "BUY",
+      "name": 72,
+      "code": 123456,
+      "unitPrice": 1.328,
+      "quantity": 752.11,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-01-18",
+      "type": "DIVIDEN",
+      "name": 73,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 733.26,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2018-02-13",
+      "type": "BUY",
+      "name": 74,
+      "code": 123456,
+      "unitPrice": 1.142,
+      "quantity": 874.61,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-03-01",
+      "type": "BUY",
+      "name": 75,
+      "code": 123456,
+      "unitPrice": 1.161,
+      "quantity": 860.29,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-04-02",
+      "type": "BUY",
+      "name": 76,
+      "code": 123456,
+      "unitPrice": 1.116,
+      "quantity": 894.98,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-04-18",
+      "type": "BUY",
+      "name": 77,
+      "code": 123456,
+      "unitPrice": 1.092,
+      "quantity": 914.65,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-07-05",
+      "type": "BUY",
+      "name": 78,
+      "code": 123456,
+      "unitPrice": 1.01,
+      "quantity": 988.91,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-08-15",
+      "type": "BUY",
+      "name": 79,
+      "code": 123456,
+      "unitPrice": 1.008,
+      "quantity": 990.87,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-15",
+      "type": "BUY",
+      "name": 80,
+      "code": 123456,
+      "unitPrice": 0.992,
+      "quantity": 1006.85,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-12-17",
+      "type": "BUY",
+      "name": 81,
+      "code": 123456,
+      "unitPrice": 0.982,
+      "quantity": 1017.11,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-02-28",
+      "type": "DIVIDEN",
+      "name": 82,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 1373.57,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2020-04-30",
+      "type": "BUY",
+      "name": 83,
+      "code": 123456,
+      "unitPrice": 0.972,
+      "quantity": 1027.57,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-03-11",
+      "type": "DIVIDEN",
+      "name": 84,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 1427.02,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2022-03-07",
+      "type": "SELL",
+      "name": 85,
+      "code": 123456,
+      "unitPrice": 1.211,
+      "quantity": -888.71,
+      "fee": 1.29,
+      "value": -1074.94
+    },
+    {
+      "date": "2022-03-22",
+      "type": "DIVIDEN",
+      "name": 86,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 1740.84,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2022-12-08",
+      "type": "DIVIDEN",
+      "name": 87,
+      "code": 123456,
+      "unitPrice": null,
+      "quantity": 1396.62,
+      "fee": null,
+      "value": null
+    },
+    {
+      "date": "2016-12-15",
+      "type": "BUY",
+      "name": 88,
+      "code": 123456,
+      "unitPrice": 0.7902,
+      "quantity": 1263.98,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-01-16",
+      "type": "BUY",
+      "name": 89,
+      "code": 123456,
+      "unitPrice": 0.766,
+      "quantity": 1303.92,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-03-31",
+      "type": "BUY",
+      "name": 90,
+      "code": 123456,
+      "unitPrice": 0.8153,
+      "quantity": 1225.07,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-04-25",
+      "type": "BUY",
+      "name": 91,
+      "code": 123456,
+      "unitPrice": 0.8025,
+      "quantity": 1244.61,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-04-28",
+      "type": "BUY",
+      "name": 92,
+      "code": 123456,
+      "unitPrice": 0.802,
+      "quantity": 1245.39,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-05-23",
+      "type": "BUY",
+      "name": 93,
+      "code": 123456,
+      "unitPrice": 0.7855,
+      "quantity": 1271.55,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-07-31",
+      "type": "BUY",
+      "name": 94,
+      "code": 123456,
+      "unitPrice": 0.7882,
+      "quantity": 1267.19,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-02-06",
+      "type": "BUY",
+      "name": 95,
+      "code": 123456,
+      "unitPrice": 0.7871,
+      "quantity": 1268.96,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-15",
+      "type": "BUY",
+      "name": 96,
+      "code": 123456,
+      "unitPrice": 0.6951,
+      "quantity": 1436.92,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-25",
+      "type": "SELL",
+      "name": 97,
+      "code": 123456,
+      "unitPrice": 0.9164,
+      "quantity": -1282.38,
+      "fee": 1.41,
+      "value": -1173.76
+    },
+    {
+      "date": "2020-04-30",
+      "type": "SELL",
+      "name": 98,
+      "code": 123456,
+      "unitPrice": 0.9777,
+      "quantity": -1282.19,
+      "fee": 1.5,
+      "value": -1252.09
+    },
+    {
+      "date": "2020-07-10",
+      "type": "SELL",
+      "name": 99,
+      "code": 123456,
+      "unitPrice": 1.2708,
+      "quantity": -1281.97,
+      "fee": 1.95,
+      "value": -1627.17
+    },
+    {
+      "date": "2020-07-16",
+      "type": "SELL",
+      "name": 100,
+      "code": 123456,
+      "unitPrice": 1.2398,
+      "quantity": -1281.71,
+      "fee": 1.9,
+      "value": -1587.16
+    },
+    {
+      "date": "2020-09-11",
+      "type": "SELL",
+      "name": 101,
+      "code": 123456,
+      "unitPrice": 1.2325,
+      "quantity": -1281.4,
+      "fee": 1.89,
+      "value": -1577.44
+    },
+    {
+      "date": "2023-05-10",
+      "type": "BUY",
+      "name": 102,
+      "code": 123456,
+      "unitPrice": 0.7791,
+      "quantity": 1281.99,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-04-26",
+      "type": "BUY",
+      "name": 103,
+      "code": 123456,
+      "unitPrice": 0.7916,
+      "quantity": 1261.75,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-06-07",
+      "type": "BUY",
+      "name": 104,
+      "code": 123456,
+      "unitPrice": 0.7329,
+      "quantity": 1362.81,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-04-14",
+      "type": "BUY",
+      "name": 105,
+      "code": 123456,
+      "unitPrice": 2.623,
+      "quantity": 380.79,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-06-10",
+      "type": "BUY",
+      "name": 106,
+      "code": 123456,
+      "unitPrice": 2.626,
+      "quantity": 380.35,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-09-19",
+      "type": "BUY",
+      "name": 107,
+      "code": 123456,
+      "unitPrice": 2.241,
+      "quantity": 445.69,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-06-12",
+      "type": "BUY",
+      "name": 108,
+      "code": 123456,
+      "unitPrice": 2.059,
+      "quantity": 485.09,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-02-29",
+      "type": "BUY",
+      "name": 109,
+      "code": 123456,
+      "unitPrice": 0.8121,
+      "quantity": 1229.9,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-01-25",
+      "type": "BUY",
+      "name": 110,
+      "code": 123456,
+      "unitPrice": 0.9595,
+      "quantity": 1040.96,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-04-14",
+      "type": "BUY",
+      "name": 111,
+      "code": 123456,
+      "unitPrice": 0.9977,
+      "quantity": 1001.1,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-04-25",
+      "type": "BUY",
+      "name": 112,
+      "code": 123456,
+      "unitPrice": 0.9933,
+      "quantity": 1005.54,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-05-23",
+      "type": "BUY",
+      "name": 113,
+      "code": 123456,
+      "unitPrice": 0.9959,
+      "quantity": 2005.82,
+      "fee": 2.4,
+      "value": 2000.0
+    },
+    {
+      "date": "2017-07-17",
+      "type": "BUY",
+      "name": 114,
+      "code": 123456,
+      "unitPrice": 0.9987,
+      "quantity": 1000.1,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-28",
+      "type": "BUY",
+      "name": 115,
+      "code": 123456,
+      "unitPrice": 0.998,
+      "quantity": 1000.8,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-08-20",
+      "type": "BUY",
+      "name": 116,
+      "code": 123456,
+      "unitPrice": 0.8968,
+      "quantity": 1113.74,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-30",
+      "type": "BUY",
+      "name": 117,
+      "code": 123456,
+      "unitPrice": 0.8037,
+      "quantity": 1242.75,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-12-27",
+      "type": "BUY",
+      "name": 118,
+      "code": 123456,
+      "unitPrice": 0.8126,
+      "quantity": 1229.14,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-06-24",
+      "type": "SELL",
+      "name": 119,
+      "code": 123456,
+      "unitPrice": 1.1545,
+      "quantity": -1188.41,
+      "fee": 1.64,
+      "value": -1370.37
+    },
+    {
+      "date": "2020-07-16",
+      "type": "SELL",
+      "name": 120,
+      "code": 123456,
+      "unitPrice": 1.2724,
+      "quantity": -1188.25,
+      "fee": 1.81,
+      "value": -1510.12
+    },
+    {
+      "date": "2020-08-12",
+      "type": "SELL",
+      "name": 121,
+      "code": 123456,
+      "unitPrice": 1.3139,
+      "quantity": -1188.07,
+      "fee": 1.87,
+      "value": -1559.14
+    },
+    {
+      "date": "2020-09-11",
+      "type": "SELL",
+      "name": 122,
+      "code": 123456,
+      "unitPrice": 1.2859,
+      "quantity": -1187.87,
+      "fee": 1.83,
+      "value": -1525.65
+    },
+    {
+      "date": "2018-06-14",
+      "type": "BUY",
+      "name": 123,
+      "code": 123456,
+      "unitPrice": 0.944,
+      "quantity": 1058.05,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-28",
+      "type": "BUY",
+      "name": 124,
+      "code": 123456,
+      "unitPrice": 0.866,
+      "quantity": 1153.35,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-21",
+      "type": "BUY",
+      "name": 125,
+      "code": 123456,
+      "unitPrice": 0.9303,
+      "quantity": 1073.63,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-02-26",
+      "type": "BUY",
+      "name": 126,
+      "code": 123456,
+      "unitPrice": 1.0894,
+      "quantity": 916.83,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-01-11",
+      "type": "BUY",
+      "name": 127,
+      "code": 123456,
+      "unitPrice": 1.1746,
+      "quantity": 850.33,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-04-29",
+      "type": "BUY",
+      "name": 128,
+      "code": 123456,
+      "unitPrice": 1.2157,
+      "quantity": 821.58,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-04-22",
+      "type": "BUY",
+      "name": 129,
+      "code": 123456,
+      "unitPrice": 0.9599,
+      "quantity": 1040.53,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-04-26",
+      "type": "BUY",
+      "name": 130,
+      "code": 123456,
+      "unitPrice": 0.8734,
+      "quantity": 1143.58,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-03-23",
+      "type": "SELL",
+      "name": 131,
+      "code": 123456,
+      "unitPrice": 1.1721,
+      "quantity": -1003.1,
+      "fee": 1.41,
+      "value": -1174.32
+    },
+    {
+      "date": "2022-04-12",
+      "type": "BUY",
+      "name": 132,
+      "code": 123456,
+      "unitPrice": 2.221,
+      "quantity": 449.71,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-06-20",
+      "type": "SELL",
+      "name": 133,
+      "code": 123456,
+      "unitPrice": 2.869,
+      "quantity": -450.25,
+      "fee": 1.55,
+      "value": -1290.21
+    },
+    {
+      "date": "2017-12-14",
+      "type": "BUY",
+      "name": 134,
+      "code": 123456,
+      "unitPrice": 1.0944,
+      "quantity": 912.65,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-04-02",
+      "type": "BUY",
+      "name": 135,
+      "code": 123456,
+      "unitPrice": 1.0026,
+      "quantity": 996.21,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-19",
+      "type": "BUY",
+      "name": 136,
+      "code": 123456,
+      "unitPrice": 0.8457,
+      "quantity": 1181.03,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-15",
+      "type": "BUY",
+      "name": 137,
+      "code": 123456,
+      "unitPrice": 0.6991,
+      "quantity": 1428.69,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-02-01",
+      "type": "SELL",
+      "name": 138,
+      "code": 123456,
+      "unitPrice": 1.129,
+      "quantity": -1131.0,
+      "fee": 1.53,
+      "value": -1275.37
+    },
+    {
+      "date": "2023-05-26",
+      "type": "BUY",
+      "name": 139,
+      "code": 123456,
+      "unitPrice": 2.534,
+      "quantity": 394.16,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-30",
+      "type": "BUY",
+      "name": 140,
+      "code": 123456,
+      "unitPrice": 1.713,
+      "quantity": 583.07,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-05-15",
+      "type": "SELL",
+      "name": 141,
+      "code": 123456,
+      "unitPrice": 2.678,
+      "quantity": -583.77,
+      "fee": 1.87,
+      "value": -1561.46
+    },
+    {
+      "date": "2022-05-31",
+      "type": "BUY",
+      "name": 142,
+      "code": 123456,
+      "unitPrice": 3.925,
+      "quantity": 254.47,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-01-06",
+      "type": "SELL",
+      "name": 143,
+      "code": 123456,
+      "unitPrice": 4.159,
+      "quantity": -254.08,
+      "fee": 1.27,
+      "value": -1055.44
+    },
+    {
+      "date": "2018-01-19",
+      "type": "BUY",
+      "name": 144,
+      "code": 123456,
+      "unitPrice": 0.9959,
+      "quantity": 2005.82,
+      "fee": 2.4,
+      "value": 2000.0
+    },
+    {
+      "date": "2018-05-15",
+      "type": "BUY",
+      "name": 145,
+      "code": 123456,
+      "unitPrice": 0.9344,
+      "quantity": 1068.92,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-07-16",
+      "type": "BUY",
+      "name": 146,
+      "code": 123456,
+      "unitPrice": 0.8029,
+      "quantity": 1243.99,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-08-20",
+      "type": "BUY",
+      "name": 147,
+      "code": 123456,
+      "unitPrice": 0.728,
+      "quantity": 1371.98,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-04-26",
+      "type": "BUY",
+      "name": 148,
+      "code": 123456,
+      "unitPrice": 0.814,
+      "quantity": 1227.03,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-09",
+      "type": "SELL",
+      "name": 149,
+      "code": 123456,
+      "unitPrice": 0.8646,
+      "quantity": -1385.21,
+      "fee": 1.44,
+      "value": -1196.22
+    },
+    {
+      "date": "2021-04-29",
+      "type": "BUY",
+      "name": 150,
+      "code": 123456,
+      "unitPrice": 0.8067,
+      "quantity": 1238.13,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-08-30",
+      "type": "BUY",
+      "name": 151,
+      "code": 123456,
+      "unitPrice": 0.6802,
+      "quantity": 1468.39,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-03-20",
+      "type": "SELL",
+      "name": 152,
+      "code": 123456,
+      "unitPrice": 0.7558,
+      "quantity": -1374.82,
+      "fee": 1.25,
+      "value": -1037.85
+    },
+    {
+      "date": "2023-04-03",
+      "type": "SELL",
+      "name": 153,
+      "code": 123456,
+      "unitPrice": 0.8913,
+      "quantity": -1374.49,
+      "fee": 1.47,
+      "value": -1223.62
+    },
+    {
+      "date": "2023-04-14",
+      "type": "SELL",
+      "name": 154,
+      "code": 123456,
+      "unitPrice": 0.9018,
+      "quantity": -1374.08,
+      "fee": 1.49,
+      "value": -1237.66
+    },
+    {
+      "date": "2016-12-01",
+      "type": "BUY",
+      "name": 155,
+      "code": 123456,
+      "unitPrice": 1.088,
+      "quantity": 918.01,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-01-11",
+      "type": "DIVIDEN",
+      "name": 156,
+      "code": 123456,
+      "unitPrice": 1.069,
+      "quantity": 18.01,
+      "fee": 0.02,
+      "value": 19.28
+    },
+    {
+      "date": "2017-04-12",
+      "type": "DIVIDEN",
+      "name": 157,
+      "code": 123456,
+      "unitPrice": 1.065,
+      "quantity": 7.9,
+      "fee": 0.01,
+      "value": 8.42
+    },
+    {
+      "date": "2017-07-12",
+      "type": "DIVIDEN",
+      "name": 158,
+      "code": 123456,
+      "unitPrice": 1.069,
+      "quantity": 7.94,
+      "fee": 0.01,
+      "value": 8.5
+    },
+    {
+      "date": "2017-10-16",
+      "type": "BUY",
+      "name": 159,
+      "code": 123456,
+      "unitPrice": 1.072,
+      "quantity": 931.72,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-10-17",
+      "type": "DIVIDEN",
+      "name": 160,
+      "code": 123456,
+      "unitPrice": 1.061,
+      "quantity": 17.73,
+      "fee": 0.02,
+      "value": 18.84
+    },
+    {
+      "date": "2018-01-12",
+      "type": "DIVIDEN",
+      "name": 161,
+      "code": 123456,
+      "unitPrice": 1.031,
+      "quantity": 31.31,
+      "fee": 0.04,
+      "value": 32.32
+    },
+    {
+      "date": "2018-04-16",
+      "type": "DIVIDEN",
+      "name": 162,
+      "code": 123456,
+      "unitPrice": 1.059,
+      "quantity": 1.82,
+      "fee": 0.0,
+      "value": 1.93
+    },
+    {
+      "date": "2018-07-09",
+      "type": "DIVIDEN",
+      "name": 163,
+      "code": 123456,
+      "unitPrice": 1.063,
+      "quantity": 9.09,
+      "fee": 0.01,
+      "value": 9.67
+    },
+    {
+      "date": "2018-08-20",
+      "type": "SELL",
+      "name": 164,
+      "code": 123456,
+      "unitPrice": 1.074,
+      "quantity": -972.93,
+      "fee": 1.25,
+      "value": -1043.68
+    },
+    {
+      "date": "2018-10-16",
+      "type": "DIVIDEN",
+      "name": 165,
+      "code": 123456,
+      "unitPrice": 1.078,
+      "quantity": 8.09,
+      "fee": 0.01,
+      "value": 8.74
+    },
+    {
+      "date": "2019-01-15",
+      "type": "DIVIDEN",
+      "name": 166,
+      "code": 123456,
+      "unitPrice": 1.086,
+      "quantity": 12.6,
+      "fee": 0.02,
+      "value": 13.7
+    },
+    {
+      "date": "2019-04-10",
+      "type": "DIVIDEN",
+      "name": 167,
+      "code": 123456,
+      "unitPrice": 1.083,
+      "quantity": 3.66,
+      "fee": 0.0,
+      "value": 3.97
+    },
+    {
+      "date": "2019-07-12",
+      "type": "DIVIDEN",
+      "name": 168,
+      "code": 123456,
+      "unitPrice": 1.0973,
+      "quantity": 6.88,
+      "fee": 0.01,
+      "value": 7.56
+    },
+    {
+      "date": "2019-10-15",
+      "type": "DIVIDEN",
+      "name": 169,
+      "code": 123456,
+      "unitPrice": 1.1025,
+      "quantity": 1.05,
+      "fee": 0.0,
+      "value": 1.16
+    },
+    {
+      "date": "2020-01-10",
+      "type": "DIVIDEN",
+      "name": 170,
+      "code": 123456,
+      "unitPrice": 1.0962,
+      "quantity": 19.46,
+      "fee": 0.03,
+      "value": 21.36
+    },
+    {
+      "date": "2020-04-13",
+      "type": "DIVIDEN",
+      "name": 171,
+      "code": 123456,
+      "unitPrice": 1.1126,
+      "quantity": 8.35,
+      "fee": 0.01,
+      "value": 9.3
+    },
+    {
+      "date": "2020-07-13",
+      "type": "DIVIDEN",
+      "name": 172,
+      "code": 123456,
+      "unitPrice": 1.0782,
+      "quantity": 9.07,
+      "fee": 0.01,
+      "value": 9.79
+    },
+    {
+      "date": "2020-10-19",
+      "type": "DIVIDEN",
+      "name": 173,
+      "code": 123456,
+      "unitPrice": 1.087,
+      "quantity": 5.64,
+      "fee": 0.01,
+      "value": 6.13
+    },
+    {
+      "date": "2020-11-13",
+      "type": "SELL",
+      "name": 174,
+      "code": 123456,
+      "unitPrice": 1.0882,
+      "quantity": -1046.67,
+      "fee": 1.37,
+      "value": -1137.62
+    },
+    {
+      "date": "2021-01-12",
+      "type": "DIVIDEN",
+      "name": 175,
+      "code": 123456,
+      "unitPrice": 1.081,
+      "quantity": -0.02,
+      "fee": 0.0,
+      "value": -0.02
+    },
+    {
+      "date": "2021-04-12",
+      "type": "DIVIDEN",
+      "name": 176,
+      "code": 123456,
+      "unitPrice": 1.0872,
+      "quantity": -0.0,
+      "fee": 0.0,
+      "value": -0.0
+    },
+    {
+      "date": "2021-07-12",
+      "type": "DIVIDEN",
+      "name": 177,
+      "code": 123456,
+      "unitPrice": 1.0999,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2021-10-19",
+      "type": "DIVIDEN",
+      "name": 178,
+      "code": 123456,
+      "unitPrice": 1.1003,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2022-01-14",
+      "type": "DIVIDEN",
+      "name": 179,
+      "code": 123456,
+      "unitPrice": 1.1024,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2022-04-12",
+      "type": "DIVIDEN",
+      "name": 180,
+      "code": 123456,
+      "unitPrice": 1.1062,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2022-07-12",
+      "type": "DIVIDEN",
+      "name": 181,
+      "code": 123456,
+      "unitPrice": 1.1136,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2022-10-18",
+      "type": "DIVIDEN",
+      "name": 182,
+      "code": 123456,
+      "unitPrice": 1.1257,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2023-01-10",
+      "type": "DIVIDEN",
+      "name": 183,
+      "code": 123456,
+      "unitPrice": 1.1002,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.02
+    },
+    {
+      "date": "2023-04-13",
+      "type": "DIVIDEN",
+      "name": 184,
+      "code": 123456,
+      "unitPrice": 1.1147,
+      "quantity": -0.01,
+      "fee": 0.0,
+      "value": -0.01
+    },
+    {
+      "date": "2018-02-07",
+      "type": "DIVIDEN",
+      "name": 185,
+      "code": 123456,
+      "unitPrice": 1.0684,
+      "quantity": 0.0,
+      "fee": 0.0,
+      "value": 0.0
+    },
+    {
+      "date": "2018-05-31",
+      "type": "BUY",
+      "name": 186,
+      "code": 123456,
+      "unitPrice": 1.0365,
+      "quantity": 963.63,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-06-19",
+      "type": "BUY",
+      "name": 187,
+      "code": 123456,
+      "unitPrice": 1.004,
+      "quantity": 994.82,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-28",
+      "type": "BUY",
+      "name": 188,
+      "code": 123456,
+      "unitPrice": 1.0101,
+      "quantity": 988.81,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-10-30",
+      "type": "BUY",
+      "name": 189,
+      "code": 123456,
+      "unitPrice": 0.9808,
+      "quantity": 1018.35,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-30",
+      "type": "BUY",
+      "name": 190,
+      "code": 123456,
+      "unitPrice": 1.0041,
+      "quantity": 994.72,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-06-21",
+      "type": "DIVIDEN",
+      "name": 191,
+      "code": 123456,
+      "unitPrice": 1.0794,
+      "quantity": 96.39,
+      "fee": 0.13,
+      "value": 104.17
+    },
+    {
+      "date": "2020-12-07",
+      "type": "DIVIDEN",
+      "name": 192,
+      "code": 123456,
+      "unitPrice": 1.1798,
+      "quantity": 1113.05,
+      "fee": 1.58,
+      "value": 1314.75
+    },
+    {
+      "date": "2021-07-30",
+      "type": "DIVIDEN",
+      "name": 193,
+      "code": 123456,
+      "unitPrice": 1.0959,
+      "quantity": 764.74,
+      "fee": 1.01,
+      "value": 839.09
+    },
+    {
+      "date": "2022-02-28",
+      "type": "SELL",
+      "name": 194,
+      "code": 123456,
+      "unitPrice": 1.1666,
+      "quantity": -1388.57,
+      "fee": 1.94,
+      "value": -1617.96
+    },
+    {
+      "date": "2019-01-15",
+      "type": "BUY",
+      "name": 195,
+      "code": 123456,
+      "unitPrice": 1.2001,
+      "quantity": 832.26,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-19",
+      "type": "SELL",
+      "name": 196,
+      "code": 123456,
+      "unitPrice": 1.4364,
+      "quantity": -833.26,
+      "fee": 1.43,
+      "value": -1195.46
+    },
+    {
+      "date": "2019-01-31",
+      "type": "BUY",
+      "name": 197,
+      "code": 123456,
+      "unitPrice": 1.554,
+      "quantity": 642.73,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-04-12",
+      "type": "DIVIDEN",
+      "name": 198,
+      "code": 123456,
+      "unitPrice": 1.649,
+      "quantity": 13.63,
+      "fee": 0.03,
+      "value": 22.5
+    },
+    {
+      "date": "2019-05-15",
+      "type": "BUY",
+      "name": 199,
+      "code": 123456,
+      "unitPrice": 1.622,
+      "quantity": 615.78,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-05-30",
+      "type": "BUY",
+      "name": 200,
+      "code": 123456,
+      "unitPrice": 1.594,
+      "quantity": 626.6,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-06-18",
+      "type": "BUY",
+      "name": 201,
+      "code": 123456,
+      "unitPrice": 1.582,
+      "quantity": 631.35,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-07-31",
+      "type": "BUY",
+      "name": 202,
+      "code": 123456,
+      "unitPrice": 1.645,
+      "quantity": 607.17,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-11-04",
+      "type": "DIVIDEN",
+      "name": 203,
+      "code": 123456,
+      "unitPrice": 1.962,
+      "quantity": 284.28,
+      "fee": 0.67,
+      "value": 558.43
+    },
+    {
+      "date": "2022-03-15",
+      "type": "SELL",
+      "name": 204,
+      "code": 123456,
+      "unitPrice": 1.864,
+      "quantity": -685.13,
+      "fee": 1.53,
+      "value": -1275.55
+    },
+    {
+      "date": "2022-04-14",
+      "type": "SELL",
+      "name": 205,
+      "code": 123456,
+      "unitPrice": 1.884,
+      "quantity": -684.92,
+      "fee": 1.55,
+      "value": -1288.85
+    },
+    {
+      "date": "2015-09-01",
+      "type": "BUY",
+      "name": 206,
+      "code": 123456,
+      "unitPrice": 1.023,
+      "quantity": 976.34,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2015-11-02",
+      "type": "BUY",
+      "name": 207,
+      "code": 123456,
+      "unitPrice": 1.072,
+      "quantity": 931.72,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2015-12-08",
+      "type": "BUY",
+      "name": 208,
+      "code": 123456,
+      "unitPrice": 1.066,
+      "quantity": 936.96,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2015-12-30",
+      "type": "BUY",
+      "name": 209,
+      "code": 123456,
+      "unitPrice": 1.078,
+      "quantity": 1853.06,
+      "fee": 2.4,
+      "value": 2000.0
+    },
+    {
+      "date": "2016-01-11",
+      "type": "BUY",
+      "name": 210,
+      "code": 123456,
+      "unitPrice": 0.996,
+      "quantity": 1002.81,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-02-15",
+      "type": "BUY",
+      "name": 211,
+      "code": 123456,
+      "unitPrice": 0.939,
+      "quantity": 2127.37,
+      "fee": 2.4,
+      "value": 2000.0
+    },
+    {
+      "date": "2016-03-01",
+      "type": "BUY",
+      "name": 212,
+      "code": 123456,
+      "unitPrice": 0.967,
+      "quantity": 1032.89,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2016-04-01",
+      "type": "BUY",
+      "name": 213,
+      "code": 123456,
+      "unitPrice": 1.012,
+      "quantity": 986.96,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2017-07-31",
+      "type": "SELL",
+      "name": 214,
+      "code": 123456,
+      "unitPrice": 1.4411,
+      "quantity": -1232.49,
+      "fee": 2.13,
+      "value": -1774.01
+    },
+    {
+      "date": "2017-11-15",
+      "type": "SELL",
+      "name": 215,
+      "code": 123456,
+      "unitPrice": 1.5077,
+      "quantity": -1232.28,
+      "fee": 2.23,
+      "value": -1855.68
+    },
+    {
+      "date": "2018-11-30",
+      "type": "BUY",
+      "name": 216,
+      "code": 123456,
+      "unitPrice": 1.4502,
+      "quantity": 688.73,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-13",
+      "type": "BUY",
+      "name": 217,
+      "code": 123456,
+      "unitPrice": 1.3592,
+      "quantity": 734.84,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-19",
+      "type": "BUY",
+      "name": 218,
+      "code": 123456,
+      "unitPrice": 1.2474,
+      "quantity": 800.71,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-10-30",
+      "type": "BUY",
+      "name": 219,
+      "code": 123456,
+      "unitPrice": 1.3381,
+      "quantity": 746.43,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-02-24",
+      "type": "SELL",
+      "name": 220,
+      "code": 123456,
+      "unitPrice": 1.5669,
+      "quantity": -1036.65,
+      "fee": 1.95,
+      "value": -1622.38
+    },
+    {
+      "date": "2021-12-03",
+      "type": "BUY",
+      "name": 221,
+      "code": 123456,
+      "unitPrice": 1.2633,
+      "quantity": 790.63,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-03-07",
+      "type": "BUY",
+      "name": 222,
+      "code": 123456,
+      "unitPrice": 1.1169,
+      "quantity": 894.26,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-03-15",
+      "type": "BUY",
+      "name": 223,
+      "code": 123456,
+      "unitPrice": 0.9842,
+      "quantity": 1014.83,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-09-04",
+      "type": "BUY",
+      "name": 224,
+      "code": 123456,
+      "unitPrice": 1.285,
+      "quantity": 777.28,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2018-11-15",
+      "type": "BUY",
+      "name": 225,
+      "code": 123456,
+      "unitPrice": 1.158,
+      "quantity": 862.52,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2019-05-30",
+      "type": "BUY",
+      "name": 226,
+      "code": 123456,
+      "unitPrice": 1.114,
+      "quantity": 896.59,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-06-09",
+      "type": "SELL",
+      "name": 227,
+      "code": 123456,
+      "unitPrice": 1.577,
+      "quantity": -846.48,
+      "fee": 1.6,
+      "value": -1333.29
+    },
+    {
+      "date": "2020-07-16",
+      "type": "SELL",
+      "name": 228,
+      "code": 123456,
+      "unitPrice": 1.765,
+      "quantity": -845.97,
+      "fee": 1.79,
+      "value": -1491.35
+    },
+    {
+      "date": "2020-11-11",
+      "type": "SELL",
+      "name": 229,
+      "code": 123456,
+      "unitPrice": 1.871,
+      "quantity": -844.95,
+      "fee": 1.89,
+      "value": -1579.01
+    },
+    {
+      "date": "2021-04-16",
+      "type": "BUY",
+      "name": 230,
+      "code": 123456,
+      "unitPrice": 1.938,
+      "quantity": 515.38,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-06-09",
+      "type": "BUY",
+      "name": 231,
+      "code": 123456,
+      "unitPrice": 1.753,
+      "quantity": 569.77,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-07-26",
+      "type": "BUY",
+      "name": 232,
+      "code": 123456,
+      "unitPrice": 1.374,
+      "quantity": 726.93,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2021-10-22",
+      "type": "BUY",
+      "name": 233,
+      "code": 123456,
+      "unitPrice": 1.395,
+      "quantity": 715.99,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-05-31",
+      "type": "BUY",
+      "name": 234,
+      "code": 123456,
+      "unitPrice": 0.8007,
+      "quantity": 1247.41,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-02-01",
+      "type": "SELL",
+      "name": 235,
+      "code": 123456,
+      "unitPrice": 1.0266,
+      "quantity": -1248.91,
+      "fee": 1.54,
+      "value": -1280.59
+    },
+    {
+      "date": "2023-02-27",
+      "type": "BUY",
+      "name": 236,
+      "code": 123456,
+      "unitPrice": 0.9198,
+      "quantity": 1085.89,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-03-19",
+      "type": "BUY",
+      "name": 237,
+      "code": 123456,
+      "unitPrice": 1.9434,
+      "quantity": 513.94,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2020-05-18",
+      "type": "SELL",
+      "name": 238,
+      "code": 123456,
+      "unitPrice": 2.3877,
+      "quantity": -337.05,
+      "fee": 0.96,
+      "value": -803.82
+    },
+    {
+      "date": "2022-06-21",
+      "type": "BUY",
+      "name": 239,
+      "code": 123456,
+      "unitPrice": 2.8372,
+      "quantity": 352.04,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-10-31",
+      "type": "BUY",
+      "name": 240,
+      "code": 123456,
+      "unitPrice": 3.109,
+      "quantity": 321.26,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2022-11-16",
+      "type": "BUY",
+      "name": 241,
+      "code": 123456,
+      "unitPrice": 3.5669,
+      "quantity": 280.02,
+      "fee": 1.2,
+      "value": 1000.0
+    },
+    {
+      "date": "2023-01-03",
+      "type": "BUY",
+      "name": 242,
+      "code": 123456,
+      "unitPrice": 3.2713,
+      "quantity": 305.32,
+      "fee": 1.2,
+      "value": 1000.0
+    }
+  ]
+}
