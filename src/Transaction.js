@@ -1,11 +1,7 @@
 import { Table } from 'antd';
 import { useState, useEffect } from 'react';
-import { owner, repo, token } from "./config";
-import { Octokit } from "octokit";
+import { owner, repo } from "./config";
 
-function b64_to_utf8(str) {
-  return decodeURIComponent(escape(window.atob(str)));
-}
 
 function unique(arr) {
     return arr.filter((item, index) => arr.indexOf(item) === index);
