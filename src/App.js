@@ -1,49 +1,30 @@
 import "./App.css";
-import { Octokit } from "octokit";
 import { useEffect, useState } from "react";
 import ReactEChart from "echarts-for-react";
 import { mockData } from './data.js'
 import DatePickerComponent from "./DatePicker";
-import { owner, repo, token } from "./config";
+import { owner, repo } from "./config";
 import TransactionComponent from "./Transaction";
 import { Watermark } from 'antd';
 import { Alert } from 'antd';
 
-function b64_to_utf8(str) {
-  return decodeURIComponent(escape(window.atob(str)));
-}
-
 
 function App() {
-  console.log(mockData);
   const [data, setData] = useState(mockData);
-  const [dataPath, setDataPath] = useState({});
+  const [date, setDate] = useState('');
   useEffect(() => {
-    if(dataPath['path']===undefined) return;
-    const octokit = new Octokit({
-      auth: token ,
-    });
+    if(date==='' || date === undefined) return;
 
-    octokit
-      .request("Get /repos/{owner}/{repo}/contents/{path}", {
-        owner: owner,
-        repo: repo,
-        path: dataPath['path'],
-        headers: {
-          Accept: "application/vnd.github+jso",
-          "X-Github-Api-Version": "2022-11-28",
-        },
-      })
+    const path = `data/portfolios/${date}.json`;
+    fetch(`https://raw.githubusercontent.com/${owner}/${repo}/main/${path}`)
+    .then(res=>res.json())
       .then((data2) => {
-        const newData = b64_to_utf8(data2.data.content);
-        const newDataJson = JSON.parse(newData);
-        setData(newDataJson);
-        console.log(newDataJson);
+        setData(data2);
       })
       .catch((err) => {
         console.log(err);
       });
-  }, [dataPath]);
+  }, [date]);
   const labelOption = {
     show: true,
     formatter: function(value) {
@@ -54,10 +35,9 @@ function App() {
         name: {}
     }
 };
-console.log(dataPath);
   const option = {
     title: {
-      text: dataPath['date'] === undefined ? "mockData" : dataPath['date'],
+      text: date, 
       right: '0',
       bottom: '0',
     },
@@ -122,7 +102,7 @@ console.log(dataPath);
       <Alert message="个人记录，非投资建议" type="error" />
       <div class='portfolio'>
         <Watermark content={owner}>
-        <DatePickerComponent onDataPathChange={(dataPath)=>setDataPath(dataPath)}/>
+        <DatePickerComponent onDataPathChange={(newDate)=>setDate(newDate)}/>
         <ReactEChart option={option} style={{height: '640px'}}/>
           </Watermark> 
       </div>
