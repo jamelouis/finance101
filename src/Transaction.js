@@ -20,6 +20,7 @@ export default function TransactionComponent() {
     })
 
     useEffect(() => {
+        /*
         const octokit = new Octokit({
         auth: token ,
         });
@@ -34,17 +35,17 @@ export default function TransactionComponent() {
             "X-Github-Api-Version": "2022-11-28",
             },
         })
+        */
+       const path = 'data/transactions.json';
+        fetch(`https://raw.githubusercontent.com/${owner}/${repo}/main/${path}`)
+        .then(res => res.json())
         .then((data2) => {
-            const newData = b64_to_utf8(data2.data.content);
-            const newDataJson = JSON.parse(newData);
-            // setData(newDataJson);
-            const transactions = newDataJson['data'];
+            const transactions = data2['data'];
             const dateFilters = unique(transactions.map((t)=>{
                 return t.date.substring(0,4); 
               })).sort().map((t)=>{ return { text: t, value: t}});
               const nameFilters = unique(transactions.map((t)=> t.name))
                 .sort().map((n)=>{ return {text: n, value: n}})
-            console.log(newDataJson);
             setData({
                 dateFilters,
                 nameFilters,
